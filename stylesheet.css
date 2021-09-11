@@ -1,0 +1,66 @@
+#div1 {
+    width: 100%;
+    height: 90px;
+    background-color: blueviolet;
+}
+
+#div2 {
+    background-color: aqua;
+    width: 15%;
+    height: 350px;
+    float: left;
+}
+
+#div3 {
+    width: 70%;
+    height: 350px;
+    background-color: brown;
+    float: left;
+}
+
+#div4 {
+    width: 15%;
+    height: 350px;
+    background-color: cornsilk;
+    float: left;
+}
+
+#div5 {
+    width: 70%;
+    height: 170px;
+    background-color: black;
+    clear: both;
+    float: left;
+}
+
+#div6 {
+    width: 30%;
+    height: 170px;
+    background-color: saddlebrown;
+    float: left;
+}
+
+#div7 {
+    width: 100%;
+    height: 70px;
+    background-color: olive;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 35px;
+    text-decoration: none;
+}
